@@ -1,2 +1,5 @@
 # review-queue-rehearsal-7813
-Disposable end-to-end review queue rehearsal
+
+Synthetic review queue rehearsal.
+
+Base refresh: queue-drill-v1
